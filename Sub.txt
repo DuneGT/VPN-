@@ -1,8 +1,1 @@
-#profile-update-interval: 2
-#profile-hide-servers: true
 
-vless://2b46d695-7f40-4136-88b2-fdeb2a256480@146.103.119.209:48060?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=&mode=auto&path=%2F&pbk=BqIawkr-gpZjLCk_7udlcxpRn7WIhdfwUFRmATHr61Q&security=reality&sid=6850f7ca305c2a&sni=www.icloud.com&spx=%2FCleOteRzOzKPJt8&type=xhttp&x_padding_bytes=100-1000#🇳🇱TEST-trhf2jmslb
-
-vless://36b05d55-d04e-494d-bc05-c276ea238b47@31.76.39.50:48060?encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=&mode=auto&path=%2F&pbk=xHyozYOcste6zefUgX-goaHZFSMlE36SmqX54Xc6NS8&security=reality&sid=3f1b4c980d&sni=www.icloud.com&spx=%2FENrgqDONt9bKGvZ&type=xhttp&x_padding_bytes=100-1000#🇬🇧🐈‍⬛best-PISANDRA
-
-vless://520a7cc8-42f5-45ad-b7ed-694e007f0de6@146.103.119.209:48060?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=&mode=auto&path=%2F&pbk=BqIawkr-gpZjLCk_7udlcxpRn7WIhdfwUFRmATHr61Q&security=reality&sid=6850f7ca305c2a&sni=www.icloud.com&spx=%2FSTC7k439DX8zsRY&type=xhttp&x_padding_bytes=100-1000#🇳🇱TEST-d4ktx7w7z8
