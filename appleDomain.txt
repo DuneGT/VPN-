@@ -21,9 +21,13 @@ idmsa.apple.com
 gsa.apple.com
 gsas.apple.com
 gsa.idms-apple.com.akadns.net
-*.ess.apple.com
+ess.apple.com
+identity.ess.apple.com
+query.ess.apple.com
 init.ess.apple.com
 kt-prod.ess.apple.com
 facetime.apple.com
 facetime-apple-com.we.apple-dns.net
-*.push.apple.com
+push.apple.com
+courier.push.apple.com
+courier2.push.apple.com
