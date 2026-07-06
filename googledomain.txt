@@ -30,8 +30,6 @@ ssl.gstatic.com
 google.com
 gmail.com
 youtube.com
-m.youtube.com
-youtubei.googleapis.com
 googlevideo.com
 googleadservices.com
 googletagmanager.com
