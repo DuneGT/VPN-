@@ -1,9 +1,7 @@
 apple.com
 cdn-apple.com
-ess.apple.com
-push.apple.com
 icloud.com
 icloud-content.com
 apple-cloudkit.com
-gsa.idms-apple.com.akadns.net
-facetime-apple-com.we.apple-dns.net
+akadns.net
+apple-dns.net
