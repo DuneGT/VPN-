@@ -1,3 +1,4 @@
+max.ru
 ozon.ru
 www.ozon.ru
 api.ozon.ru
