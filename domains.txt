@@ -51,3 +51,7 @@ kpdl.link
 support-kp.com
 gravatar.com
 googleapis.com
+whatsapp.com
+whatsapp.net
+wa.me
+web.whatsapp.com
