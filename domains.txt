@@ -53,5 +53,14 @@ gravatar.com
 googleapis.com
 whatsapp.com
 whatsapp.net
-wa.me
 web.whatsapp.com
+g.whatsapp.net
+chat.cdn.whatsapp.net
+chat-fallback.cdn.whatsapp.net
+media.frix7-1.fna.whatsapp.net
+media.fcgh20-1.fna.whatsapp.net
+scontent.fcgh20-1.fna.whatsapp.net
+mmx-ds.cdn.whatsapp.net
+mmg.whatsapp.net
+dit.whatsapp.net
+wa.meta.vc
