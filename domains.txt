@@ -121,3 +121,14 @@ firebaseremoteconfigrealtime.googleapis.com
 prod-lt-playstoregatewayadapter-pa.googleapis.com
 kino.pub
 www.kino.pub
+kino.watch
+api.service-kp.com
+api.srvkp.com
+api2.service-kp.com
+api.smrtv.lol
+kinopub.online
+pushbr.com
+m.pushbr.com
+s.pushbr.com
+gravatar.com
+cdn32.lol
