@@ -64,3 +64,4 @@ mmx-ds.cdn.whatsapp.net
 mmg.whatsapp.net
 dit.whatsapp.net
 wa.meta.vc
+kino.watch
